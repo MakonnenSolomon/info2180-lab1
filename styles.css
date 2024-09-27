@@ -1,11 +1,20 @@
 
 h1 { font-size: 24px;
-	 color: #38b2ac	;
+	 color: #38b2ac;
+	 
 	}
-h2 { font-size: 21px; color: #5a67d8; text "Makonnen Solomon: I am a financial advisor working with sagicor and guardian life."}	
+h2 { font-size: 21px; 
+	color: #5a67d8;
+	font-style: oblique;
+	font:medium;
+	font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+	}	
 
 p
 	{
 		font-size: 18px;
 		color: red;
+		font-style: oblique;
+		font:medium;
+		font-family:'Courier New', Courier, monospace
 	}
